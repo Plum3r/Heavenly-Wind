@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 53b953256af721945804deb9ff80a2df
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Polygon Party
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 80d24e5bb4c35c64ca538bf0fb767b03, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

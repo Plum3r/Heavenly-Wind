@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33714207ad0202c419142573e6e74a38, type: 3}
+  m_Name: todo
+  m_EditorClassIdentifier: 
+  Entries:
+  - Text: " SkinSelection\r"
+    Note: 
+    Tag: TODO
+    File: E:\Development\Poly Project\Assets\02_Scripts\LobbyPlayerManager.cs
+    Line: 37
+    PathToShow: Assets/02_Scripts/LobbyPlayerManager.cs(37)
+  - Text: " Add Crouch for the LobbyCharacter\r"
+    Note: 
+    Tag: TODO
+    File: E:\Development\Poly Project\Assets\02_Scripts\LobbyPlayerManager.cs
+    Line: 130
+    PathToShow: Assets/02_Scripts/LobbyPlayerManager.cs(130)
+  - Text: " Add Lay Down for the LobbyCharacter\r"
+    Note: 
+    Tag: TODO
+    File: E:\Development\Poly Project\Assets\02_Scripts\LobbyPlayerManager.cs
+    Line: 131
+    PathToShow: Assets/02_Scripts/LobbyPlayerManager.cs(131)
+  - Text: " When hit the Floor make Sound\r"
+    Note: 
+    Tag: TODO
+    File: E:\Development\Poly Project\Assets\02_Scripts\LobbyPlayerManager.cs
+    Line: 176
+    PathToShow: Assets/02_Scripts/LobbyPlayerManager.cs(176)
+  - Text: " Make Another RayCast, to stop Jumpung before touching ground\r"
+    Note: 
+    Tag: IMPROVEMENT
+    File: E:\Development\Poly Project\Assets\02_Scripts\LobbyPlayerManager.cs
+    Line: 175
+    PathToShow: Assets/02_Scripts/LobbyPlayerManager.cs(175)
+  - Text: " On New Map Start instantiating PlayerPrefabs\r"
+    Note: 
+    Tag: TODO
+    File: E:\Development\Poly Project\Assets\02_Scripts\NetworkManager.cs
+    Line: 100
+    PathToShow: Assets/02_Scripts/NetworkManager.cs(100)
+  - Text: " Add Crouch for the LobbyCharacter\r"
+    Note: 
+    Tag: TODO
+    File: E:\Development\Poly Project\Assets\02_Scripts\BattleRoyalePlayer.cs
+    Line: 116
+    PathToShow: Assets/02_Scripts/BattleRoyalePlayer.cs(116)
+  - Text: " Add Lay Down for the LobbyCharacter\r"
+    Note: 
+    Tag: TODO
+    File: E:\Development\Poly Project\Assets\02_Scripts\BattleRoyalePlayer.cs
+    Line: 117
+    PathToShow: Assets/02_Scripts/BattleRoyalePlayer.cs(117)
+  - Text: " When hit the Floor make Sound\r"
+    Note: 
+    Tag: TODO
+    File: E:\Development\Poly Project\Assets\02_Scripts\BattleRoyalePlayer.cs
+    Line: 161
+    PathToShow: Assets/02_Scripts/BattleRoyalePlayer.cs(161)
+  - Text: " Make Another RayCast, to stop Jumpung before touching ground\r"
+    Note: 
+    Tag: IMPROVEMENT
+    File: E:\Development\Poly Project\Assets\02_Scripts\BattleRoyalePlayer.cs
+    Line: 160
+    PathToShow: Assets/02_Scripts/BattleRoyalePlayer.cs(160)
+  TagsList:
+  - TODO
+  - BUG
+  - IMPROVEMENT
